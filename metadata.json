@@ -1,0 +1,6 @@
+{
+  "name": "紅生園シフト自動作成システム",
+  "description": "介護施設「紅生園」5階フロアのシフト自動作成システムです。夜勤・明け・休みの絶対遵守、連勤上限、個別契約、ペアリング制約に適合したシフトを1クリックで自動生成します。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
